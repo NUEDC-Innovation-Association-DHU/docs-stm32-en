@@ -10,7 +10,7 @@ STM32 Learning Guide
 .. `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 .. documentation for details.
 
-`[中文] <https://nuedc-innovation-association-dhu.github.io/docs-stm32-zh_CN/>`_
+`[中文] <https://docs.dhu-nuedc.top/docs-stm32-zh_CN/>`_
 
 .. toctree::
    :maxdepth: 2

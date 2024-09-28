@@ -1,6 +1,6 @@
 # Software installation and environment configuration
 
-[[中文]](https://nuedc-innovation-association-dhu.github.io/docs-stm32-zh_CN/introduction/Installation.html)
+[[中文]](https://docs.dhu-nuedc.top/docs-stm32-zh_CN/introduction/Installation.html)
 
 ## Install the Keil MDK-Community Edition
 
