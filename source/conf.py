@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'docs-stm32'
-copyright = '2024, Haoyu Qian'
+copyright = '2024, Haoyu Qian | This project is licensed under the CC BY-NC 4.0'
 author = 'Haoyu Qian'
 release = '0.1'
 

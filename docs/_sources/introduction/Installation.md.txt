@@ -26,7 +26,11 @@
 
 ①Install after downloading the file
 
-Warning: It is not recommended to install software on the Disk C , and ensure that the entire installation path and the path of the pack, does not contain any characters other than numbers, letters, underscores, otherwise the software can not run normally!
+Warning: It is not recommended to install software on the Disk C , and ensure that the entire installation path and the path of the pack, does not contain any characters other than numbers, letters, underscores, otherwise the software can not run normally!\
+
+The recommended path:
+
+![alt text](image/image24.png)
 
 ②Open the software (If the activation fails, open it in administrator mode)
 
